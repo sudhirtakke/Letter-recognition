@@ -5,4 +5,4 @@ In the given dataset we have 'letter' as a target variable which has English alp
 
 We have two sets of datasets, train and test separately. Train set of data will be used to train the models using difefrent algorithms and finally we use the trained models on Test data to predict the dependent variable i.e. letter.
 
-[Jupyter Notebook](./Letter recognition.ipynb)
+[Jupyter Notebook](./Letter-recognition.ipynb)
